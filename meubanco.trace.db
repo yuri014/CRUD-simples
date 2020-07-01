@@ -1,0 +1,18 @@
+2020-06-30 14:36:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "'Frank Miller' (HQ: ""AUTOR"" INTEGER NOT NULL)"; SQL statement:
+insert into hq (id, autor, data_publicacao, nomehq) values (null, ?, ?, ?) [22018-200]
+2020-06-30 14:36:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "'Frank Miller' (HQ: ""AUTOR"" INTEGER NOT NULL)"; SQL statement:
+insert into hq (id, autor, data_publicacao, nomehq) values (null, ?, ?, ?) [22018-200]
+2020-06-30 14:37:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "'Frank Miller' (HQ: ""AUTOR"" INTEGER NOT NULL)"; SQL statement:
+insert into hq (id, autor, data_publicacao, nomehq) values (null, ?, ?, ?) [22018-200]
+2020-06-30 14:37:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "'Frank Miller' (HQ: ""AUTOR"" INTEGER NOT NULL)"; SQL statement:
+insert into hq (id, autor, data_publicacao, nomehq) values (null, ?, ?, ?) [22018-200]
+2020-06-30 14:39:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "'Frank Millar' (HQ: ""AUTOR"" INTEGER NOT NULL)"; SQL statement:
+insert into hq (id, autor, data_publicacao, nomehq) values (null, ?, ?, ?) [22018-200]
+2020-06-30 14:46:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "'Frank Miller' (HQ: ""AUTOR"" INTEGER NOT NULL)"; SQL statement:
+insert into hq (id, autor, data_publicacao, nomehq) values (null, ?, ?, ?) [22018-200]
